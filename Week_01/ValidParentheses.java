@@ -31,3 +31,7 @@ public class ValidParentheses {
         return false;
     }
 }
+
+// 0. 相反的字符入栈
+// 1. pop后比较
+// 2. 最后栈为空，全都匹配上
